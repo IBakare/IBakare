@@ -28,10 +28,8 @@
 ### :woman_technologist: About Me :
 I am a Data Analyst <img src="https://media.giphy.com/media/cnzou4ydGM7GJZ7VTz/giphy.gif" width="30"> from the United Kingdom.
 
-- :telescope:  I use my expertise in collecting, cleaning, analyzing, and interpreting complex data sets to provide valuable insights and recommendations that help organizations make informed decisions.
+- :telescope: At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties. With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions..
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I take lessons of LinkedIn and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ifeloluwabakare/)
