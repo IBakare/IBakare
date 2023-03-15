@@ -28,7 +28,7 @@
 ### :woman_technologist: About Me :
 I am a Data Analyst <img src="https://media.giphy.com/media/cnzou4ydGM7GJZ7VTz/giphy.gif" width="30"> from the United Kingdom.
 
-- :telescope: At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties. With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions..
+- :seedling: At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties. With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions..
 
 - :zap: In my free time, I take lessons of LinkedIn and read tech articles.
 
