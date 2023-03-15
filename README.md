@@ -12,5 +12,5 @@
     <img src="https://img.shields.io/badge/My%20Portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=IBakare&style=flat-square&color=blue" alt=""/>
 
