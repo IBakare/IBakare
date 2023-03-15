@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFjNTJiYjM4MTY0YzI2NDlhZDAyODZiZDUwZGZiZWY5M2Q3ZDcyYiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 👋 Hi there my name is Ife
 
 👋 I'm a Data Analyst.
@@ -17,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
