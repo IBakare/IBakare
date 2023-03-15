@@ -8,8 +8,8 @@
   <a href="https://medium.com/@ifeloluwabakare">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/My%20Portfolio-red?style=for-the-badge&logo=carrd&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://ifeloluwabakare.carrd.co/">
+    <img src="https://img.shields.io/badge/My%20Portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
