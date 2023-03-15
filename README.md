@@ -28,7 +28,7 @@
 ### :woman_technologist: About Me :
 I am a Data Analyst <img src="https://media.giphy.com/media/cnzou4ydGM7GJZ7VTz/giphy.gif" width="30"> from the United Kingdom.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:  I use my expertise in collecting, cleaning, analyzing, and interpreting complex data sets to provide valuable insights and recommendations that help organizations make informed decisions.
 
 - :seedling: Exploring Technical Content Writing.
 
