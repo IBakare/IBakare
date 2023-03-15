@@ -1,4 +1,5 @@
-👋 ### Hi there my name is Ife
+👋 Hi there my name is Ife
+
 👋 I'm a Data Analyst.
 
 
