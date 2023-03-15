@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋my name is Ife
+👋 I'm a Data Analyst.
+
 
 <!--
 **IBakare/IBakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi there, my name is Ife
-👋 I'm a Data Analyst.
