@@ -25,10 +25,10 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: My name is Ife :
 I am a Data Analyst.
 
-- :seedling: At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties. With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions..
+- :💪🏽: At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties. With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions..
 
 - :zap: In my free time, I take lessons of LinkedIn and read tech articles.
 
