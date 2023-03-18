@@ -22,11 +22,11 @@
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-💞️ My name is Ife
+- :💞️: My name is Ife
 
-🎓 I have a Bachelors in Statistics, and Masters in Data Science
+- :🎓: I have a Bachelors in Statistics, and Masters in Data Science
 
-  I am a Data Analyst.
+- 🌱: I am extremely enthusiastic about data analytics! The ability to extract insights and make informed decisions from complex data sets is both fascinating and powerful. With the right tools and techniques, data analytics can provide valuable information for businesses, organizations, and individuals alike, enabling them to achieve their goals and make a real impact in their fields. I am eager to continue learning and developing my skills in data analytics so that I can contribute to this exciting field and help unlock its full potential.
   
 - :💪🏽: At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties. 
 
