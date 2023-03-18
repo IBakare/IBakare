@@ -19,13 +19,13 @@
 </div>
 
 <h1>
-  Hey there
+  Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
 
-### :woman_technologist: My name is Ife :
+My name is Ife 
 I am a Data Analyst.
 
 - :💪🏽: At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties. With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions..
