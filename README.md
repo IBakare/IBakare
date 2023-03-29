@@ -28,6 +28,13 @@
   
 - 💪🏽 At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties.  With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions..
 
+* 🌍  I'm based in United Kingdom
+* ✉️  You can contact me at [ifeloluwabakare@gmail.com](mailto:ifeloluwabakare@gmail.com)
+* 🧠  I'm learning Tableau
+* 🤝  I'm open to collaborating on Data Analysis and Business Intelligence Projects
+* ⚡  In my free time, I take lessons of LinkedIn and read tech articles
+
+
 - :zap: In my free time, I take lessons of LinkedIn and read tech articles.
 
 - :mailbox:How to reach me: @email: ifeloluwabakare@gmail.com
