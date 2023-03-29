@@ -54,11 +54,11 @@
 
 <b>My GitHub Stats</b>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IBakare&count_private=true&theme=tokyonight&showicons=true)]
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IBakare&count_private=true&theme=tokyonight&showicons=true)]()
 
 <a href="http://www.github.com/IBakare"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IBakare&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IBakare&langs_count=5&theme=tokyonight)]
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IBakare&langs_count=5&theme=tokyonight)]()
 
 ### Support Me
 
