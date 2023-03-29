@@ -20,26 +20,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 💙 My name is Ifeloluwa.
-
-- 🎩 I have a Bachelors in Statistics, and Masters in Data Science.
-
-- 🌱 I am extremely enthusiastic about data analytics! 
-  
-- 💪🏽 At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties.  With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions..
-
-* 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [ifeloluwabakare@gmail.com](mailto:ifeloluwabakare@gmail.com)
-* 🧠  I'm learning Tableau
+*💙 My name is Ifeloluwa.
+*🌍 I'm based in United Kingdom
+*🎩 I have a Bachelors in Statistics, and Masters in Data Science.
+*🧠 I am extremely enthusiastic about data analytics! 
+*💪🏽 At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties.  With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions.
+* ⚡  In my free time, I watch interesting videos on youtube and read tech articles
 * 🤝  I'm open to collaborating on Data Analysis and Business Intelligence Projects
-* ⚡  In my free time, I take lessons of LinkedIn and read tech articles
-
-
-- :zap: In my free time, I take lessons of LinkedIn and read tech articles.
-
-- :mailbox:How to reach me: @email: ifeloluwabakare@gmail.com
-
----
+* ✉️  You can contact me at [ifeloluwabakare@gmail.com](mailto:ifeloluwabakare@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools :
 
