@@ -36,7 +36,7 @@
 
 ✉️  You can contact me at [ifeloluwabakare@gmail.com](mailto:ifeloluwabakare@gmail.com)
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL" alt="SQL " width="40" height="40"/>&nbsp;
