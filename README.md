@@ -20,8 +20,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-* 💙 My name is Ifeloluwa.
-* 🌍 I'm based in United Kingdom
+💙 My name is Ifeloluwa.
+
+🌍 I'm based in United Kingdom
+
 * 🎩 I have a Bachelors in Statistics, and Masters in Data Science.
 * 🧠 I am extremely enthusiastic about data analytics!
 * 💪🏽 At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties.  With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions.
