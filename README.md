@@ -27,13 +27,14 @@
 
 ✉️  You can contact me at [ifeloluwabakare@gmail.com](mailto:ifeloluwabakare@gmail.com)
 
-<div id="Profilevisit" align="center">
+<div id="Profilevisit" align="left">
 <img src="https://komarev.com/ghpvc/?username=IBakare&style=flat-square&color=blue" alt=""/>
 
  <a href="https://ifeloluwabakare.carrd.co/">
     <img src="https://img.shields.io/badge/My%20Portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
  </div>
+ 
 ### Languages and Tools 
 
 <div>
