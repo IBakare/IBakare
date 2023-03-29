@@ -27,7 +27,7 @@
 
 - 🎩 I have a Bachelors in Statistics, and Masters in Data Science.
 
-- 🌱 I am extremely enthusiastic about data analytics! The ability to extract insights and make informed decisions from complex data sets is both fascinating and powerful. With the right tools and techniques, data analytics can provide valuable information for businesses, organizations, and individuals , enabling them to achieve their goals and make a real impact in their fields. I am eager to continue learning and developing my skills in data analytics so that I can contribute to this exciting field and help unlock its full potential.
+- 🌱 I am extremely enthusiastic about data analytics! 
   
 - 💪🏽 At present, I leverage a range of technical tools and platforms, including Python, SQL, Excel, and various Business Intelligence (BI) applications like Power BI and Tableau, to perform my data analyst duties.  With proficiency in these tools, I can efficiently extract, clean, and analyze complex data sets, create visualizations, and develop insightful reports to aid organizations in making data-driven decisions..
 
@@ -59,7 +59,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IBakare&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### Badges
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/IBakare"><img src="https://github-readme-stats.vercel.app/api?username=IBakare&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IBakare's GitHub stats" /></a>
+
+<a href="http://www.github.com/IBakare"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IBakare&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/IBakare" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBakare&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/ifeloluwabP"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
