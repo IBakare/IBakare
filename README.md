@@ -57,8 +57,8 @@
  <a href="https://public.tableau.com/app/profile/ifeloluwa.bakare" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Icon" width="32" height="32" />
 </a>
- <a href="https://app.powerbi.com/profile/your_powerbi_username" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Icon" />
+ <a href="https://www.novypro.com/profile_projects/bakareifeloluwa" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Icon" width="32" height="32"  />
 </a>
   <a href="http://www.medium.com/@ifeloluwabakare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
  </a>
