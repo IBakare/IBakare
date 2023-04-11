@@ -50,8 +50,8 @@
 ### Socials
 
 <p align="left"> </a> <a href="https://www.github.com/IBakare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/ifeloluwabakare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@ifeloluwabakare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/IfeloluwaBakare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://public.tableau.com/app/profile/your_tableau_username" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Icon" />
+<a href="https://public.tableau.com/app/profile/ifeloluwa.bakare" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Icon" width="32" height="32" />
 </a></p>
 
 ### Badges
