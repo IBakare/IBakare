@@ -53,7 +53,7 @@
 <a href="https://public.tableau.com/app/profile/ifeloluwa.bakare" target="_blank" rel="noreferrer">
   <img src="https://www.tableau.com/themes/custom/tableau_www/logo.png" alt="Tableau Logo" width="32" height="32" />
 </a>
-</a>
+
 </p>
 
 ### Badges
