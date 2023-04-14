@@ -86,4 +86,4 @@
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/ifeloluwabP"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
+<a href="https://www.buymeacoffee.com/ifeloluwabP"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
